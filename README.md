@@ -1,2 +1,2 @@
-# jqless_example
-An example of using Jqless in a react app
+# gqless example
+An example of using Gqless in a react app
