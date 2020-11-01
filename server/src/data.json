@@ -1,0 +1,22 @@
+{
+  "employees": [
+      {
+       "id": 1,
+       "name": "John Doe",
+       "email": "jdoe@gmail.com",
+       "age": 32
+      },
+      {
+       "id": 2,
+       "name": "Kate Williams",
+       "email": "kate@gmail.com",
+       "age": 50
+      },
+      {
+       "id": 3,
+       "name": "Linda Johnson",
+       "email": "linda@gmail.com",
+       "age": 37
+      }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "graphql_sandbox",
+  "version": "0.0.1",
+  "description": "creating a graphql server",
+  "main" : "src/server.js",
+  "scripts": {
+    "serve": "nodemon src/server.js",
+    "json:server" "json-server --watch data.json"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": "Sean Westfall",
+  "license": "MIT",
+  "dependences": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1",
+    "graphql": "^14.0.2",
+    "nodemon": "^1.18.9"
+  } 
+}
